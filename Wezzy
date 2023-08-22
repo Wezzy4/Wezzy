@@ -1,0 +1,4 @@
+-- reach settings
+getgenv().openReach = False -- True or False
+getgenv().Leg = "Left" -- Left or Right
+getgenv().Reach = 4 -- Change to what ever u want (The game caps it)
